@@ -1,6 +1,6 @@
 # Data-Structures-Coursework
 
-This repository contains projects for the Spring 2021 iteration of CS 61B: Data Structures at UC Berkeley.  Below is the course website with the respective projects.
+This repository contains projects for the Spring 2021 iteration of CS 61B: Data Structures at UC Berkeley.  Below is the course website with the respective project specs.
 
 https://sp21.datastructur.es/
 
